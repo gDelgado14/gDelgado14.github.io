@@ -1,18 +1,30 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-# ">" ignores new lines until meaningful variable is included this means to ignore newlines until "baseurl:"
-#Write an awesome description for your new site here. You can edit this
-#line in _config.yml. It will appear in your document head meta (for
-#Google search results) and in your feed.xml site description.
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
-description: Soccer Ball Kicker, Life Liver, Continuous Learner, (Hopefully Hacker?).
-  
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
-# Build settings
-markdown: kramdown
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
