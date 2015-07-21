@@ -1,40 +1,288 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Jul 2015 23:54:28 -0400</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2015 23:54:28 -0400</lastBuildDate>
+    <title>Poole</title>
+    <description></description>
+    <link>http://getpoole.com/</link>
+    <atom:link href="http://getpoole.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Jul 2015 20:03:00 -0400</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2015 20:03:00 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>The-Spirit-of-Man-Kind</title>
+        <description>I&#39;m currently reading &lt;a href=&quot;http://www.amazon.ca/HG-Wells-Classic-Collection-I/dp/0575095202/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1436635510&amp;sr=1-1&amp;keywords=hg+wells+classic&quot;&gt;The First Men in the Moon, by H. G. Wells&lt;/a&gt;. If you&#39;re not into Science Fiction, any of his books will change your mind (the book I&#39;ve linked contains 5 of his best books) - Wells paints elaborate pictures in your mind that make any fictional notion seem as real as life itself.
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+One passage in this book caught my attention. It captured humanity&#39;s urge to venture into the unexplored in beautiful prose, so I thought I&#39;d share.
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;small&gt;Why had we come to the moon?&lt;br /&gt;The thing presented itself to me as a perplexing problem. What is this spirit in man that urges him for ever to depart from happiness and security, to toil, to place himself in danger, to risk even a reasonable certainty of death? It dawned upon me that there in the moon as a thing I ought always to have known, that man is not made simply to go about being safe and comfortable and well fed and amused. Almost any man, if you put the thing to him, not in words, but in the shape of opportunities, will show that he knows as much. Against his interest, against his happiness, he is constantly being driven to do unreasonable things. Some force not himself impels him, and go he must.&lt;/small&gt;&lt;/h2&gt;
 
 </description>
-        <pubDate>Sat, 04 Jul 2015 19:54:06 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/07/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/07/04/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://getpoole.com/2015/07/11/The-Spirit-of-Man-Kind/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/07/11/The-Spirit-of-Man-Kind/</guid>
+        
+        <category>books</category>
+        
+        <category>posts</category>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>Renovations-2.0</title>
+        <description>In an effort to continue learning more about technology and keep my skills sharp (and save some moneyz), I&#39;m going to migrate from &lt;a href=&quot;https://wordpress.org/&quot;&gt;Wordpress&lt;/a&gt; to &lt;a href=&quot;//jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; / &lt;a href=&quot;//pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. 
+
+This move also goes in tandem with my effort to become good with &lt;a href=&quot;https://www.git-scm.com/&quot;&gt;Git&lt;/a&gt; / &lt;a href=&quot;//github.com/&quot;&gt;GitHub&lt;/a&gt; so that I may have a public portfolio of my work down the road.
+
+I just started playing around with &lt;a href=&quot;//jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; a few days ago and it seems simple enough to pick up after a bit of reading. Here&#39;s what the site looks like &lt;a href=&quot;https://gdelgado14.github.io/&quot;&gt;right now&lt;/a&gt; (this is the default bootstrap Jekyll deployment hosted via GitHub Pages).
+
+Jekyll has a library that allows me to easily import Wordpress data directly into my blog but I feel like that&#39;s a learning opportunity foregone. Thankfully I found out about &lt;a href=&quot;//scrapy.org/&quot;&gt;Scrapy&lt;/a&gt;; a Python web scraper. Hopefully I&#39;ll have some time to create a custom scraper that walks through the blog and have a nice clean JSON export feed that I can then convert to markdown. This already sounds overly ambitious ... but hey, why not shoot for the moon, right? </description>
+        <pubDate>Mon, 06 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://getpoole.com/2015/07/06/Renovations-2.0/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/07/06/Renovations-2.0/</guid>
         
-        <category>update</category>
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Frameworks-vs-Abstract-Thinking</title>
+        <description>&lt;a href=&quot;http://giorgiodelgado.ca/wp-content/uploads/2014/01/mathematics-chalkboards_003104581.jpg&quot;&gt;&lt;img src=&quot;http://giorgiodelgado.ca/wp-content/uploads/2014/01/mathematics-chalkboards_003104581-300x177.jpg&quot; alt=&quot;mathematics-chalkboards_003104581&quot; width=&quot;300&quot; height=&quot;177&quot; class=&quot;aligncenter size-medium wp-image-55&quot; /&gt;&lt;/a&gt;
+
+I think most people assess the value of their degree / diploma strictly from an employability perspective. i.e. &quot;which degree would signal to a potential employer how valuable I am.&quot; If that&#39;s strictly the reason for choosing one field of study over another, then you may be missing the point of &quot;higher learning&quot;.
+
+What one should value more is what you&#39;re actually learning and what knowledge you can take with you after you graduate. Forget the fact you your degree is a BSc rather than a BA. Who cares. 
+
+In my case, Economics is a beautifully disorganized mess that I couldn&#39;t be happier to have stumbled upon. The models and mathematics that one analyzes for four years are hardly applicable to a job in the corporate / tech world, or anything other than academia for that matter.
+
+The value comes in a fresh perspective in analyzing the world. Economics allows you to think in an abstract and philosophical manner so as to think of a creative solution to what may have previously seemed an impossibility. 
+
+There are difficult classes (hello econometrics and game theory), but the fact that you can manage to solve the problems in such a tough class are testament to your ability to focus on one task and actually complete it. 
+
+Once graduated and you&#39;re faced with a tough problem in the real world you&#39;ll reflect back at the thinking process you undertook to prove, for example, a probabilistic equation and abstract from that a useful framework to sidestep this problem you&#39;re currently faced with. 
+
+This form of thinking is applicable to whatever you&#39;re studying be it english or physics. One thing to note however, is that the more abstract thinking a degree contains, the more useful the knowledge gained will be later on in life as the thinking processes are not restricted to their intended domains. 
+
+In contrast, one could be in a framework-heavy field of study. A frameworks-heavy field of study is business for example. You don&#39;t learn many technical things and the things you do learn are only applicable to one domain. i.e. Porters Five Forces, Options Pricing Models, Business Plan Writing ... these are all frameworks that have difficulty being applied to to other domains. 
+
+Compare that to a degree in mathematics, which is as abstract as it could possibly get. None of the things you learn are restricted to any domain. The ways of solving problems in mathematics can then be applied to any situation you are in.  
+
+Computer Scientists are a great example of a type of people who repeatedly solve problems outside of their domain by using the abstract knowledge they gained. Algorithm&#39;s for example (although invented a &lt;a href=&quot;https://en.wikipedia.org/wiki/Timeline_of_algorithms&quot;&gt;long time ago&lt;/a&gt;) are widely studied in CS, but most any computer scientist will tell you that they think about their problems in an algorithmic manner. 
+
+The more abstract knowledge you have, the better you are generating unique solutions to all sorts of problems.
+
+</description>
+        <pubDate>Mon, 29 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://getpoole.com/2015/06/29/Frameworks-vs-Abstract-Thinking/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/06/29/Frameworks-vs-Abstract-Thinking/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Uncomfortableness</title>
+        <description>Mental performance and ability are directly correlated to one&#39;s own success - just look at society&#39;s obsession with IQ tests and other assessments of mental aptitude. This idea that mental performance ties directly to my future outcome has led me down some interesting paths and literature (for instance, &lt;a href=&quot;https://alumni.stanford.edu/get/page/magazine/article/?article_id=32124&quot;&gt;this neat article&lt;/a&gt;, or &lt;a href=&quot;http://giorgiodelgado.ca/the-starbucks-alternative/&quot;&gt;this blog post&lt;/a&gt;) in the aim to increase my own mental performance.   
+
+However, as much as brain hacks and other tricks may help you increase your brain&#39;s horsepower, the most important thing is to test the bounds of your mind and continually push those bounds. Mathematics is a really good example of a tool that will allow you to expand your mind and mental ability and thus success in life (&lt;a href=&quot;http://www.ppic.org/content/pubs/report/R_701JBR.pdf&quot;&gt;see the foreword in this paper&lt;/a&gt;).
+
+This doesn&#39;t mean that if you don&#39;t like math you&#39;re condemned to not be successful, rather that mathematics ability is a decent proxy for mental capacity and thus future success.  
+
+What does it take for someone like Jeff Bezos, or Barack Obama, or Aswath Damodaran to be successful?
+
+There are obviously many variables at play but all these people have the capacity to think deeply for prolonged periods of time. Deep thinkers are able to handle the intricacies of a problem, think about it in an abstract manner, reject one&#39;s own desire to give up, and push until a solution has been found. 
+
+So it seems plausible that in order to expand your mental ability all it takes is a bit of patience, persistence and desire to learn increasingly complex concepts.</description>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://getpoole.com/2015/06/02/Uncomfortableness/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/06/02/Uncomfortableness/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Your-Mind-Is-An-Input--Output-Machine</title>
+        <description>Something I constantly remind myself of is that my brain, like any ordinary computer, functions to process input data (sound, visual, taste, touch, etc...), interpret [or disregard] the data and then do something with the interpretation (output). 
+
+With that analogy in mind, it would benefit one to notice what they are feeding their mind. If you are constantly feeding your mind negativity, then your behaviours and interpretation of the world around you will most likely contain some form of negativity (whether you notice it or not). 
+
+I was reading &lt;a href=&quot;http://www.feld.com/about&quot;&gt;Brad Feld&#39;s&lt;/a&gt; &lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/B00RZXA1YU/startuprev-20&quot;&gt;new book&lt;/a&gt; (of which I highly recommend if you&#39;re looking to validate a venture idea) and read a very neat passage that I&#39;d like to paraphrase: 
+
+&lt;small&gt;As any statistician would tell you, any interpretation of data that consists of a sample size of less than ~46 is statistically insignificant and must be taken with a grain of salt. Similarly, one must realize that our beliefs and values are constructed through an interpretation of a sample size of 1 (you).&lt;/small&gt; 
+
+Allow your mind to be more flexible and open to new ideas (as damaging as they may be to your ego) because even the beliefs we hold most firmly in our hearts are oftentimes not founded on fact. 
+
+I see a lot of value in objectively analyzing the thoughts in my head and the information that I seem to hold firmly in my heart. In doing so I can then start to slowly reject rules (heuristics) that I&#39;ve assumed are optimal, as much as human nature may attempt to undermine my effort to change these beliefs &amp; habits. 
+
+Thinking this way has allowed me to consciously decide on better alternatives (i.e. reading a book over watching tv) because I know that the quality of the input determines (partly) the quality of my output. 
+
+Just a thought. </description>
+        <pubDate>Tue, 31 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://getpoole.com/2015/03/31/Your-Mind-Is-An-Input--Output-Machine/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/03/31/Your-Mind-Is-An-Input--Output-Machine/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Say-Hello-to-BykMe</title>
+        <description>As of today, &lt;a href=&quot;https://bykme.sharetribe.com/&quot;&gt;BykMe&lt;/a&gt; is live! 
+
+I&#39;m excited to announce that this summer you will be able to rent out your bicycle to anybody using this platform! 
+
+I&#39;m working with an engineering friend of mine to include hardware into the mix so that eventually you&#39;ll be able to track your device and lock it remotely. 
+
+I&#39;m looking for beta testers and people willing to actually rent out their bikes. If interested, simply sign up for BykMe, message me saying you&#39;re willing to rent out your bike this Spring/Summer, and I&#39;ll grant you the required permissions. 
+
+Cheers. </description>
+        <pubDate>Tue, 24 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://getpoole.com/2015/03/24/Say-Hello-to-BykMe/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/03/24/Say-Hello-to-BykMe/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What-Happened-to-the-Laurier-Entrepreneur</title>
+        <description>&lt;p dir=&quot;ltr&quot; id=&quot;docs-internal-guid-e3899dd5-3f27-4f58-a3d4-0b61394029bb&quot;&gt;I&#39;m beyond the halfway point of my&lt;a href=&quot;http://giorgiodelgado.ca/self-development-challenge/&quot;&gt; self development challenge&lt;/a&gt; and through my experience as a covert Laurier student taking a University of Waterloo class I&#39;ve noticed some big differences that may contribute to the two institutions&#39; large chasm in entrepreneurial ability.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;As most anyone knows, University of Waterloo is a highly technical school. UW students have an advantage in that they can immediately create a prototype. But if rapid prototyping were the golden rule to success we&#39;d be talking about Steve Jobs a hell of a lot less. Conversely, Laurier students understand businesses and on average they&#39;re much better communicators.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;So given that both groups of students have their pros and cons it seems really odd that UW is constantly spitting out startup after startup while Laurier wallows in utter despair[0].&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Being a Laurier student myself, I can tell you personally that my university does not lack creativity - simply go to the first year new venture competitions that we host, or the renown&lt;a href=&quot;http://legacy.wlu.ca/page.php?grp_id=31&amp;amp;p=471&quot;&gt; Ice-Week competitions&lt;/a&gt;. We are a group of driven individuals who have an equal ability to find needs and meet them.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;So where do things go sour? A supportive culture.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I can&#39;t think of a single New Venture project[1] that actually ended up becoming a successful company, which blows my mind considering that the ideas are actually amazing and that THEY ALREADY HAVE A BUSINESS PLAN. I can tell you right now that most of the UW companies don&#39;t have a business plan until after they have a functional product - I mean half the time it&#39;s just a side project that the hackers don&#39;t even realize meets an unmet need for a large customer segment (enter PG aficionados).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;The thing is, UW students are constantly&lt;a href=&quot;https://uwaterloo.ca/arts/events/change-your-mind-and-change-world-larry-smith-talk&quot;&gt; reminded that there&#39;s no limit to what they can achieve&lt;/a&gt;. This belief alongside the seemingly inexhaustible pools of capital that UW students have creates ideas such as the Thalmic Myo, or Majik Systems, or Chalk, or BufferBox. The list is endless.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I understand Laurier doesn&#39;t have the same capital that UW does, but in order to get a functional product you don&#39;t need a lot of money anyways (unless you&#39;re in the medical field or some research-intensive industry). So my biggest issue is the attitude and dry atmosphere at Laurier that sucks the passion out of entrepreneurs. There&#39;s an adversarial feel to it all at my university, no one wants to help one another and if we can squash another person&#39;s attempt at greatness then so be it. Professors never encourage students to push beyond the classroom and actually attempt to create something. Entrepreneurship is something really foreign in these parts of town.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Right off the top of my head I recall stories of Laurier TA&#39;s telling first year students how idiotic an idea was for a startup and then having a similar product come to market a year later.&lt;a href=&quot;http://wriber.com/&quot;&gt; Here&#39;s&lt;/a&gt; one of the products which suffered for years and was scrutinized day in and day out ... until, well, it actually became a thing (the CEO is a Laurier grad and the ironic part is that it was UW that helped him the most to get it off the ground and running).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I really am thankful for attending Laurier. Perhaps I&#39;m not thankful enough. One thing I know for sure is that this institution is doing the creatives a disservice.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Or perhaps I&#39;m a naive fool who thinks entrepreneurs require support. If entrepreneurship drives GDP growth more than a career at a big institution with nice benefits, shouldn&#39;t we be catering to the former rather than the latter?&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;hr&gt;
+[0] - This claim is my own opinion and perhaps a bit naive and exaggerated. Nonetheless, I still hold firm on the belief that it&#39;s much easier to start a company at UW than it is at Laurier. 
+[1] - Part of the first year business classes are a set of projects that culminate in groups of students pitching venture ideas, which include a business plan that has been graded based on viability and other measures.</description>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
+        <link>http://getpoole.com/2015/03/02/What-Happened-to-the-Laurier-Entrepreneur/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/03/02/What-Happened-to-the-Laurier-Entrepreneur/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>I-Just-Did-What?</title>
+        <description>&lt;p dir=&quot;ltr&quot; id=&quot;docs-internal-guid-71a18ca4-3f1e-e719-d697-35fda914f918&quot;&gt;In an effort to not burn myself out (again) I have placed little importance on updating this blog. I&#39;ve just been too busy with other things to stay sane and manage all the things I had initially hoped to do. On a related note, WOW is sleep ever good. I had totally forgotten what it felt like to get constant sleep ever since placing such emphasis on doing too many things.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h1&gt;&lt;small&gt;On Creating a Marketable Product ...&lt;/small&gt;&lt;/h1&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I&#39;ve been going out to bicycle stores and talking to cyclists to get a better understanding of the cycling culture in this region and to see if whether&lt;a href=&quot;http://bykme.ca/register&quot;&gt; BykMe&lt;/a&gt; is a viable idea. Another dilemma I&#39;m currently facing is the process by which I&#39;ll deliver a prototype to market. There are essentially two alternatives.&lt;/p&gt;
+
+&lt;h5 dir=&quot;ltr&quot;&gt;1 - Code a basic prototype myself:&lt;/h5&gt;
+&lt;p dir=&quot;ltr&quot;&gt;This is not as hard as it sounds if you know basic web development (The true test is making a web-application look the same on any web browser **Cough**Internet Explorer**Cough**) and use resources available to you, of which there are swaths. I&#39;ve already got a basic template that I&#39;d use if I were to go this route (check&lt;a href=&quot;http://delgadogiorgio.com/steam/&quot;&gt; here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h5 dir=&quot;ltr&quot;&gt;2 - Use a sub-par and costly marketplace system:&lt;/h5&gt;
+&lt;p dir=&quot;ltr&quot;&gt;This option is slowly becoming the preferable one. The choice of marketplace system boils down to either&lt;a href=&quot;https://www.sharetribe.com/&quot;&gt; Sharetribe&lt;/a&gt; or&lt;a href=&quot;https://near-me.com/&quot;&gt; Near-Me&lt;/a&gt;, both of which allow me to focus on&lt;a href=&quot;http://giorgiodelgado.ca/self-development-challenge/&quot;&gt; my other goals&lt;/a&gt; for this winter while still achieving the goal of having a marketable product. Sharetribe is considerably cheaper, and since all I&#39;m looking for is&lt;a href=&quot;https://en.wikipedia.org/wiki/Minimum_viable_product&quot;&gt; a basic prototype&lt;/a&gt;, it will definitely do.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h1&gt;&lt;small&gt;On Becoming A Proficient Programmer ...&lt;/small&gt;&lt;/h1&gt;
+&lt;p dir=&quot;ltr&quot;&gt;On another note. I&#39;ve mentioned previously how I am aiming at becoming a knowledgeable programmer and just last night I really noticed how far I&#39;ve come since my early days.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Below is a code snippet for an algorithm I wrote over the summer (in&lt;a href=&quot;https://en.wikipedia.org/wiki/Visual_Basic_for_Applications&quot;&gt; VBA&lt;/a&gt;):&lt;/p&gt;
+&amp;nbsp;
+&lt;code&gt;Dim Mult3 As Long&lt;/code&gt;
+&lt;code&gt;Dim Mult5 As Long&lt;/code&gt;
+&lt;code&gt;Dim Tot As Long&lt;/code&gt;
+&lt;code&gt;Mult3 = 0&lt;/code&gt;
+&lt;code&gt;Mult5 = 0&lt;/code&gt;
+&lt;code&gt;For i = 3 To 999 Step 3&lt;/code&gt;
+&lt;code&gt;Mult3 = Mult3 + i&lt;/code&gt;
+&lt;code&gt;Next i&lt;/code&gt;
+&lt;code&gt;For i = 5 To 999 Step 5&lt;/code&gt;
+&lt;code&gt;If Int(i / 3) - i / 3 &amp;lt;&amp;gt; 0 Then &#39;prevent double counting&lt;/code&gt;
+&lt;code&gt;Mult5 = Mult5 + i&lt;/code&gt;
+&lt;code&gt;End If&lt;/code&gt;
+&lt;code&gt;Next i&lt;/code&gt;
+&lt;code&gt;Tot = Mult3 + Mult5&lt;/code&gt;
+&lt;code&gt;MsgBox (&quot;Answer is: &quot; &amp;amp; Tot)&lt;/code&gt;
+&lt;p&gt;And below is another algorithm (if you can even call it that) that does the exact same thing but in&lt;a href=&quot;https://www.python.org/&quot;&gt; Python&lt;/a&gt; (try and figure out what it does!).&lt;/p&gt;
+&amp;nbsp;
+&lt;code&gt;print &quot;answer is: &quot;, sum([x for x in range(1,1000) if (x % 3 == 0) or (x % 5 == 0)])&lt;/code&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I&#39;ve also finally finished Udemy&#39;s&lt;a href=&quot;https://www.udemy.com/complete-web-developer-course/?dtcode=onKtD4P2sehJ&quot;&gt; Web Development Course&lt;/a&gt; and I&#39;ve got to say I have learned a lot of practical skills which I may start monetizing soon.&lt;a href=&quot;http://delgadogiorgio.com/&quot;&gt; Here&#39;s&lt;/a&gt; a link to some of my work.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h1&gt;&lt;small&gt;On Learning About Artificial Intelligence ...&lt;/small&gt;&lt;/h1&gt;
+&lt;p dir=&quot;ltr&quot;&gt;In one of&lt;a href=&quot;http://giorgiodelgado.ca/restarting-for-efficiencys-sake/&quot;&gt; my last posts&lt;/a&gt; I mentioned how MIT&#39;s Artificial Intelligence class is not for the faint of heart. With my knowledge of programming, I was not prepared to tackle a senior-level Computer Science class on my own without the help of an online community. That&#39;s why I started over and have been progressing along with&lt;a href=&quot;https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0&quot;&gt; UC Berkeley&#39;s&lt;/a&gt; Artificial Intelligence class.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Below is a short video of what I managed to do with my new-found Artificial Intelligence skills. This is an intelligent Pacman character that knows where to go to find the ball (although not in the most efficient way, which is what I&#39;m working on next).&lt;/p&gt;
+That&#39;s all folks. Adios.</description>
+        <pubDate>Tue, 24 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://getpoole.com/2015/02/24/I-Just-Did-What%3F/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/02/24/I-Just-Did-What%3F/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>To-Do-Make-List-Making-a-Habit</title>
+        <description>&lt;p dir=&quot;ltr&quot; id=&quot;docs-internal-guid-71a18ca4-3f1e-50c4-4a10-4de58020ebe7&quot;&gt;With the sheer amount of things running around in my head I simply had to figure out a way to organize, categorize and prioritize.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Of course there are apps, web applications, mentors, and a myriad of other ways to relief stress and increase productivity when it comes to managing multiple tasks.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;But as&lt;a href=&quot;http://math.ucr.edu/home/baez/physics/General/occam.html&quot;&gt; Occam&lt;/a&gt; would say, the simplest method is often the most efficient.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;That is why I have begun writing just about everything down in actionable ways. I can&#39;t be the only one here whose mind begins to race at the seemingly insurmountable amount of things required to be done in order to achieve a certain goal, and more so if the goal is a rather lofty one.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;It is imperative that items be actionable and not vague. Writing down (as I have before) &quot;Python CodeCademy&quot; is useless and can&#39;t even be verified for completion. A more efficient item on a to do list would go along the lines of, &quot;Finish Intro To Classes Module&quot;. Then I can check - Did I finish this module? Why or Why Not? Should I get more granular? ... and so on.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;There&#39;s something special about writing things as well. I can&#39;t quite put my finger on it (no pun intended), but when pen meets paper my concerns seem to vanish as my ideas take on simpler form.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Once all is jotted down, I categorize and look at what needs to be done and what is fluff.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Combined with my calendar, where I&#39;ve made it a habit to include all my deadlines, meetings, and other tasks, I can prioritize my list items based on urgency and importance.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;And when something doesn&#39;t get finished. It simply gets moved onto the following day&#39;s To Do list, which is compiled the night before.&lt;/p&gt;
+Voila, productivity increased.</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://getpoole.com/2015/02/14/To-Do-Make-List-Making-a-Habit/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/02/14/To-Do-Make-List-Making-a-Habit/</guid>
+        
+        <category>posts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let-the-Excitement-Begin</title>
+        <description>&lt;p dir=&quot;ltr&quot; id=&quot;docs-internal-guid-71a18ca4-3f14-fe55-11d4-dd878f3008a7&quot;&gt;I&#39;m very excited to announce that just a few days ago I launched a landing page for my&lt;a href=&quot;http://bykme.ca/register&quot;&gt; service&lt;/a&gt;. I am looking to create a peer-to-peer bike sharing network where locals can rent out their bicycles and make supplemental income. On the other side of the spectrum, travellers and infrequent commuters will have access to a quick method of accessing a bike, rather than having to register for a membership and pay a fixed price for the current bike sharing systems all around the world.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://giorgiodelgado.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-21-at-9.27.35-PM.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-672&quot; alt=&quot;BykMe&quot; src=&quot;http://giorgiodelgado.ca/wp-content/uploads/2015/03/Screen-Shot-2015-03-21-at-9.27.35-PM-300x161.png&quot; width=&quot;300&quot; height=&quot;161&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I&#39;ve also met two people interested in working with me on this venture thus far and have begun validating the idea by visiting local bike shops to see what they think.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Just yesterday I pitched the idea to a small group of tech and entrepreneurship enthusiasts (&lt;a href=&quot;http://www.boltmade.com/&quot;&gt;at Boltmade HQ&lt;/a&gt;) and got some great feedback. Their thoughts allowed me to refine the business model and brought up some critical points for the sustainability of the business.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Today is the start of&lt;a href=&quot;http://startupweekend.org/&quot;&gt; Startup Weekend as well&lt;/a&gt; - a 54 hour event in which I&#39;m sure I&#39;ll learn even more about myself and the viability of&lt;a href=&quot;http://bykme.ca/register&quot;&gt; BykMe&lt;/a&gt;. I hope to meet even more awesome people as well as another potential cofounder (fingers crossed).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Today also marked the start of&lt;a href=&quot;https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0&quot;&gt; UC Berkeley&#39;s Artificial Intelligence course&lt;/a&gt;. If you have been reading my posts for a while now, you&#39;ll know that I put a stop to trying to go at it alone on&lt;a href=&quot;http://giorgiodelgado.ca/restarting-for-efficiencys-sake/&quot;&gt; MIT&#39;s AI course&lt;/a&gt; because of the lack of resources as well as community. Thanks to&lt;a href=&quot;https://www.edx.org/&quot;&gt; edX&#39;s online platform&lt;/a&gt;, I am provided with more resources as well as a community in which I can discuss problems and learn at a faster rate. This rids me of the unnecessary headaches of trying to learn a subject completely alone.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I am well on my way to achieving the three goals I set out to accomplish by the end of the Winter. Those goals (&lt;a href=&quot;http://giorgiodelgado.ca/self-development-challenge/&quot;&gt;mentioned here&lt;/a&gt;) are:&lt;/p&gt;
+
+&lt;ul class=&quot;my-list&quot;&gt;
+&lt;li&gt;Become a proficient programmer&lt;/li&gt;
+&lt;li&gt;Begin understanding Artificial Intelligence methodologies&lt;/li&gt;
+&lt;li&gt;Learn how to create a product&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <pubDate>Fri, 06 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://getpoole.com/2015/02/06/Let-the-Excitement-Begin/</link>
+        <guid isPermaLink="true">http://getpoole.com/2015/02/06/Let-the-Excitement-Begin/</guid>
+        
+        <category>posts</category>
+        
         
       </item>
     
