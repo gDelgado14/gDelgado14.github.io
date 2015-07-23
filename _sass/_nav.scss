@@ -1,0 +1,27 @@
+
+#navbar {
+	
+	position: relative;
+	top: -50px;
+	
+	ul {
+		margin: 0;
+		padding-left: auto;
+		padding-right: auto;
+		list-style: none;
+		
+		li {
+			margin: 0;
+			display: inline-block;
+			
+			a {
+				padding: 15px 20px;	
+			}
+			
+			a:hover {
+				text-decoration: none;
+			}
+		}
+	}
+	
+}
