@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Giorgio Delgado
+description: "Tech Enthusiast | Continuous Learner | Entrepreneur"
 ---
 
 <div class="posts">
@@ -17,17 +18,4 @@ title: Home
     {{ post.content }}
   </article>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
 </div>
