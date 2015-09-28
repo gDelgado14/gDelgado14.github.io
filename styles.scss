@@ -370,18 +370,54 @@ body {
 	Portfolio CSS
 ***/
 
+.fancy-title {
+	color: #1B8C99;
+	font-family: 'Lobster', cursive;
+}
+
 .clear-nav {
 	margin-top: 80px;
 }
 
 .showcase {
+	
 	margin: 10px 50px;
+	
+	.img-responsive {
+		margin: 0 auto;
+	}
+	
+	a:hover,
+	h3:hover,
+	p:hover { 
+		text-decoration: none;
+	}
 }
 
-.showcase .img-responsive {
-	margin: 0 auto;
-}
+ 
 
 #blog-img {
 	font-size: 10em;
 }
+
+#ModalTitle {
+	font-size: 2.5em;
+}
+
+.modal {
+	
+	p {
+		display: inline;
+		font-size: 1.4em;
+	}
+	
+	#btn-div {
+		display: inline-block;
+	}
+	
+	.devicons {
+		font-size: 5.5em;
+	}
+	
+}
+

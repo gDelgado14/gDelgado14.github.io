@@ -16,6 +16,10 @@
     {% endif %}
   </title>
   
+  {% if page.title == "Portfolio" %}
+  <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  <link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
+  {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   
   <!-- CSS -->
@@ -26,7 +30,12 @@
   
   <!-- Pygments Github CSS -->
   <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
-
+  
+  {% if page.title == "Portfolio" %}
+  <!-- jQuery -->
+  <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+  {% endif %}
+  	
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">

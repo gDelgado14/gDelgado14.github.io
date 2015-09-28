@@ -5,20 +5,173 @@ title: Portfolio
 
 <div class="container-fluid clear-nav">
 	<div class="row text-center">
-		<h1>Some of My Work</h1>
+		<h1 class="fancy-title">Some of My Work</h1>
 	</div>
 	
 	<div class="row showcase text-center">
-		<a href="/" class="col-md-3"><i class="fa fa-pencil-square-o fa-5x" id="blog-img"></i></a>
-		<a href="http://delgadogiorgio.com/diary/" class="col-md-3"><img src="https://unsplash.it/200/200?image=759" alt="diary" class="img-responsive img-rounded"></a>
-		<a href="#" class="col-md-3"><img src="https://unsplash.it/200/200?image=76" alt="bicycle" class="img-responsive img-rounded"></a>
-		<a href="http://delgadogiorgio.com/cs50/player.html" class="col-md-3"><img src="https://unsplash.it/200/200?image=366" alt="text editor" class="img-responsive img-rounded"></a>
+		
+		<!-- Begin Blog Block-->
+		<a href="#" class="col-md-3 modal-data" data-target="#exampleModal" data-name="blog">
+			<i class="fa fa-pencil-square-o fa-5x" id="blog-img"></i>
+			<h3 class="fancy-title">This very blog</h3> 
+		</a>
+		
+		<!-- Begin Diary Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="diary">
+			<img src="https://unsplash.it/200/200?image=759" alt="diary" class="img-responsive img-rounded">
+			<h3 class="fancy-title">Diary App</h3>
+		</a>
+		
+		<!-- Begin BykMe Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="BykMe">
+			<img src="https://unsplash.it/200/200?image=76" alt="bicycle" class="img-responsive img-rounded">
+			<h3 class="fancy-title">BykMe</h3>
+		</a>
+		
+		<!-- Begin Text Editor Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="cs50">
+			<img src="https://unsplash.it/200/200?image=366" alt="text editor" class="img-responsive img-rounded">
+			<h3 class="fancy-title">Text Editor</h3>
+		</a>
 	</div>
 	
-	<div class="row showcase">
-		<a href="http://delgadogiorgio.com/php/scraper.php" class="col-md-3"><img src="https://unsplash.it/200/200?image=857" alt="nice weather" class="img-responsive img-rounded"></a>
-		<a href="#" class="col-md-3"></a>
-		<a href="#" class="col-md-3"></a>	
-		<a href="#" class="col-md-3"></a>	
+	<!-- 2nd row -->
+	<div class="row showcase text-center">
+		
+		<!-- Begin Weather Scrape Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="scrape">
+			<img src="https://unsplash.it/200/200?image=857" alt="nice weather" class="img-responsive img-rounded">
+			<h3 class="fancy-title">Weather Scraper</h3>
+		</a>
+		
+		<!-- Begin Weather Scrape Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="soup">
+			<img src="//pixabay.com/get/f99303e4aaaf011168fd/1443418961/soup-751623_1280.jpg?direct" alt="soup" class="img-responsive img-rounded">
+			<h3 class="fancy-title">Soup</h3>
+		</a>
+		
+		<!-- Begin PRISM Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="prism">
+			<img src="https://unsplash.it/200/200?image=192" alt="people" class="img-responsive img-rounded">
+			<h3 class="fancy-title">Teaching</h3>
+		</a>
+		
+		<!-- Begin Other Block-->
+		<a href="#" class="col-md-3 modal-data" data-name="hope">
+			<img src="https://unsplash.it/200/200?image=173" alt="child" class="img-responsive img-rounded">
+			<h3 class="fancy-title">(H)openSource</h3>
+		</a>
+		
+	
 	</div>
 </div>
+
+<div class="modal fade" id="portfolioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="ModalTitle" style="color: #1B8C99;font-family: 'Lobster', cursive;"></h4>
+      </div>
+      <div class="modal-body text-center">
+        <p id="ModalDescription"></p>
+        <h3 id="heading" class="fancy-title">Technologies Used:</h3>
+        <p id="tech-info"></p>
+      </div>
+      <div class="modal-footer">
+	    <div id="btn-div"></div>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <a id="cta" href="" class="btn btn-success" target="_blank"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+	
+	
+	var metadata =  {
+		
+		blog: {
+			descText: "I'm continually doing touch-ups or complete redesigns to help me learn more about web development. The current look of the blog is a fork of the Poole Jekyll layout",
+			techs: [ "git", "jekyll_small", "sass" ],
+			btnInfo: ["View on GitHub!", "//github.com/gDelgado14/gDelgado14.github.io"]
+		},
+		
+		diary: {
+			descText: "Write your thoughts down and don't stress about losing your info because AJAX got yo' back.",
+			techs: [ "php", "mysql", "jquery"],
+			btnInfo: ["Journal Away!", "//delgadogiorgio.com/diary/"]
+		},
+		
+		BykMe: {
+			descText: 'In partnership with the city of Kitchener and <a href="//grasplock.com/">Grasp</a>, BykMe is looking to develop the most advanced peer-to-peer  bicycle renting network.<br><a href="//www.therecord.com/news-story/5541408-wlu-student-launching-online-bicycle-brokerage/" class="btn btn-info">In the News</a> <a href="//www.producthunt.com/tech/bykme" class="btn btn-info">On Product Hunt!</a>',
+			techs: [ "meteor", "mongodb", "nodejs"],
+			btnInfo: ["Check out our Beta", "//bykme.ca/"]
+		},
+		
+		cs50: {
+			descText: 'This was my final project for <a href="//www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard\'s CS50x</a> course! Create your very own website using this basic Text Editor. Allows you to visualize your HTML & CSS on the page.',
+			techs: [ "javascript_badge"],
+			btnInfo: ["Start Coding!", "//delgadogiorgio.com/cs50/player.html"]
+		},
+		
+		scrape: {
+			descText: "Get a 3-day text summary of the weather for any location around the world!",
+			techs: [ "php"],
+			btnInfo: ["Dress Appropriately!", "//delgadogiorgio.com/php/scraper.php"]
+		},
+		
+		soup: {
+			descText: 'Wanted to learn about xml parsing so I made a script that converted Wordpress xml into jekyll-ready output.<br><a class="btn btn-info" href="//giorgiodelgado.ca/2015/07/30/soup/">Read the blog post</a>',
+			techs: [ "python", "jekyll_small"],
+			btnInfo: ["On GitHub", "//github.com/gDelgado14/soup"]	
+		},
+		
+		prism: {
+			descText: 'I work as a VBA & Python instructor at <a href="//prismresources.ca/">PRISM Resources</a> and have developed a 2 hour module for each programming language. The Python class features a mini project whereby myself and the students create a reddit bot using <a href="https://praw.readthedocs.org/en/stable/">PRAW</a>.',
+			techs: [ "python"],
+			btnInfo: ["On GitHub", "//github.com/gDelgado14/PRISM"]	
+		},
+		
+		hope: {
+			descText: 'My team created this service while at HackTheNorth. We managed to win \'best collaboration tool using Moxtra\'s API\'.<br><a href="http://www.hopensource.co/" class="btn btn-info">(H)openSource</a>',
+			techs: [ "ruby", "ruby_on_rails", "postgresql"],
+			btnInfo: ["On GitHub", "//github.com/HackTheNorthDreamTeam/HopenSource"]
+		}
+	};
+   
+	$(document).ready(function() {
+		
+		$('.modal-data').click( function() {
+			
+			// clear modal of previous info
+			$('.modal-body p').html('');
+			
+			var key = $(this).attr('data-name');
+			console.log(key);
+			var title = $(this).children(".fancy-title").text();
+			var description = metadata[key].descText;
+			var callToAction = metadata[key].btnInfo;
+			
+			// pass title
+			$('#ModalTitle').text(title); // keep
+			
+			$('#ModalDescription').append(description);
+			
+			// pass devicons
+			metadata[key].techs.forEach(function(tech) {
+				$('#tech-info').append('<p class="devicons devicons-' + tech + '"></p>');
+			});
+			
+			$("#cta").attr("href", callToAction[1]);
+			$("#cta").text(callToAction[0]);
+			
+			// activate modal
+			$('#portfolioModal').modal();
+		});		
+			
+	});
+	
+	
+</script>
