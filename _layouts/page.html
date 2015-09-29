@@ -30,19 +30,24 @@ layout: default
 
 <hr>
 
-<div class="container">
-	<div class="row">
-		<div class="pagination col-lg-11 col-md-11 col-sm-11 col-xs-11">
-		  {% if paginator.next_page %}
-		    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-		  {% else %}
-		    <span class="pagination-item older">Older</span>
-		  {% endif %}
-		  {% if paginator.previous_page %}
-		    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-		  {% else %}
-		    <span class="pagination-item newer">Newer</span>
-		  {% endif %}
+
+
+{% if page.title == 'Giorgio Delgado' %}
+
+	<div class="container">
+		<div class="row">
+			<div class="pagination col-lg-11 col-md-11 col-sm-11 col-xs-11">
+			  {% if paginator.next_page %}
+			    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+			  {% else %}
+			    <span class="pagination-item older">Older</span>
+			  {% endif %}
+			  {% if paginator.previous_page %}
+			    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+			  {% else %}
+			    <span class="pagination-item newer">Newer</span>
+			  {% endif %}
+			</div>
 		</div>
 	</div>
-</div>
+{% endif %}
