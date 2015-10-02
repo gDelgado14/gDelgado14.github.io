@@ -7,6 +7,8 @@ From <strong>January through to May 2014</strong> I challenged myself to write e
 
 Below are the 50 posts that I wrote throughout this great experience.
 
+> Because of the **[way I extracted these posts](http://giorgiodelgado.ca/2015/07/30/soup/)**, their markup (and their corresponding images) is somewhat out of whack. Nonetheless, the content of the posts is still there - and that's what really matters. 
+
 
 [Adios!]({% post_url 2014-5-01-Adios! %}) - May 1, 2014
 
@@ -205,7 +207,7 @@ Below are the 50 posts that I wrote throughout this great experience.
 
 <hr>
 
-[Stock Market Tip: Stay Away]({% post_url 2014-1-23-Stock-Market-Tip-Stay-Away %}) - Jan 23, 2014
+[Stock Market Tip: Stay Away]({% post_url 2014-1-23-stock-market-tip %}) - Jan 23, 2014
 
 <hr>
 
