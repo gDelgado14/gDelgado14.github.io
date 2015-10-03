@@ -11,7 +11,7 @@ Here is how it all went down and what I learned from it.
 ### The Calm Before The Storm
 I applied on my own, so once I got accepted it was up to me to join a team. Thankfully, the HTN staff set up a Slack account for the participants to chat and within a few hours I managed to find a team that made sense for me. 
 
-The team consisted of myself, one UW systems design engineer, one UW CS student, and a mech engineering student from Purdue. After we pitched each other our ideas we narrowed our HTN project to either:
+The team consisted of myself, one UW systems design engineer, one UW CS student, and an electrical eng / CS student from Purdue. After we pitched each other our ideas we narrowed our HTN project to either:
 
 - A marketplace dedicated to local book stores to place their books online so as to compete with Amazon's easy-to-use online marketplace.
 - An open source collaboration platform that connects experienced developers with Non profit organizations looking to create technologies.
