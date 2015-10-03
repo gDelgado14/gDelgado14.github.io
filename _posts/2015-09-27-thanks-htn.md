@@ -55,7 +55,7 @@ We began hacking around midnight on the 18th and knew that this hack had a great
 
 ![sponsors](/downloads/crazynes.jpg)
 
-> Sponsors hung out all weekend with us - giving us free goodies, offering interviews, and helping us out with any questions we had. **[Here](http://makebright.com/2015/09/hack-the-north-2015in-brief-sort-of/)** are some pictures, curtesy of [Darin White](https://twitter.com/DarinTheGreat)
+> Sponsors hung out all weekend with us - giving us free goodies, offering interviews, and helping us out with any questions we had. **[Here](http://makebright.com/2015/09/hack-the-north-2015in-brief-sort-of/)** are some pictures, courtesy of [Darin White](https://twitter.com/DarinTheGreat)
 
 After 14 hours or so we had set up the back end architecture and were starting to test the user interface based on that architecture. Having decent knowledge of the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) philosophy helped significantly as the front end we were creating had to adhere to this structure.
 
