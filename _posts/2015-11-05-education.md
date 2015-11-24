@@ -8,9 +8,9 @@ Our education system passed its date of expiry long, long ago. Yet there's not m
 
 One of the bigger blunders in the current system is the GPA / Grading system. Under this scheme, students are incentivized to optimize for grades **rather than understanding**. The diligent optimizer that attains dean's honor roll is perceived as a genius, and is consequently more employable than someone with a lower grade.
 
-I don't question that a large portion of those who attain high grades are in fact quite intelligent and destined for success, but this scheme assumes intelligence is this sort of one-dimensional and quantifiable thing. That those without a high GPA aren't smart, as though the only efficient and necessarily employable person in society is one who has consistently demonstrated that he can in fact copy notes and regurgitate material. 
+I don't question that a large portion of those who attain high grades are in fact quite intelligent and destined for success, but this scheme assumes intelligence is this sort of one-dimensional and quantifiable thing. That those without a high GPA aren't smart, as though the only efficient and necessarily employable person in society is one who has consistently demonstrated that he can in fact copy notes and regurgitate material.
 
-The industrial revolution certainly required a greater propensity of that type of person but we've surpassed that era. Modern society requires a much wider array of individuals. Dare I say it, society requires critical thinkers, not regurgitators.
+The industrial revolution certainly required a greater propensity of that type of person, but we've surpassed that era. Modern society requires a much wider array of individuals. Dare I say it, society requires critical thinkers, not regurgitators.
 
 I think Robert Pirsig put it beautifully in his book, [Zen & the Art of Motorcycle Maintenance](http://www.amazon.ca/gp/product/0060589469?keywords=zen%20and%20the%20art%20of%20motorcycle%20maintenance&qid=1446768528&ref_=sr_1_1&sr=8-1):
 

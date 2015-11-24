@@ -12,6 +12,7 @@ paginate:            1
 baseurl:             ""
 header-img: 		 downloads/rock.jpg
 
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
