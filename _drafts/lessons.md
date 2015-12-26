@@ -48,7 +48,7 @@ Brainstorming sessions of any kind, regardless of how productive they may seem, 
 
 Massively successful companies also start in such a small market that they come off as simple hobbies or lifestyle businesses.
 
-Great companies start off from humble beginnings, and the founders are never seeking to become CEO's - it's just an inadvertent consequence of intellectual curiosity at its purest form. I think the best example of this is Larry Page's endeavour to see if current page ranking algorithms were outputting good search results. The rest is history. 
+Great companies start off from humble beginnings, and the founders are never seeking to become CEO's - it's just an inadvertent consequence of intellectual curiosity in its purest form. I think the best example of this is Larry Page's endeavour to see if current page ranking algorithms were outputting good search results. The rest is history. 
 
 But to think that you'd be able to conjure an idea and then proceed to write out a business plan outlining your step-by-step process to an IPO is simply an exercise in pointing out your ignorance of the world's complexity. 
 
@@ -69,7 +69,7 @@ If you seize to feel discomfort, you've essentially stopped living.
 ###Final Thoughts
 Labels prevent creativity. 
 
-By studying entrepreneurship and defining it using some framework or mental model prevents outside-the-box thining. And that's where the magic truly happens. 
+Studying entrepreneurship and defining it using some framework or mental model prevents outside-the-box thinking. And that's where the magic truly happens. 
 
 
 
