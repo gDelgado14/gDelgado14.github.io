@@ -53,4 +53,18 @@ Unbelievably deep book. Read it if you want to get a start into modern philosoph
 
 ####Josh Waitzkin
 
-It's actually quite odd to realize that most of us don't work on our learning methodology - we just assumed learning ability is this fixed thing. This book has far reaching implications that span farther than just improving your learning ability. 
+It's actually quite odd to realize that most of us don't work on our learning methodology - we just assume learning ability is this fixed thing. This book has far reaching implications that span farther than just improving your learning ability. 
+
+---
+
+##short stories
+
+* The egg - Andy Weir
+
+##Podcasts
+
+##blog posts
+
+
+
+
