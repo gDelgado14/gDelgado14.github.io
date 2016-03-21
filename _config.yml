@@ -1,34 +1,19 @@
-# Permalinks
+# Welcome to Jekyll!
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true	 	 
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Setup
-title:               Giorgio Delgado
-tagline:             Thoughts & Ramblings
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
-header-img: 		 downloads/rock.jpg
+# Site settings
+title: Giorgio Delgado
+email: gio@perkur.com
+description: Tech Enthusiast, Continuous Learner, Entrepreneur.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://giorgiodelgado.ca" # the base hostname & protocol for your site
+twitter_username: Giorgio_Delgado
+github_username:  gDelgado14
+pages: [about, forty-eight]
 
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Giorgio Delgado
-  url:               https://twitter.com/Giorgio_Delgado
-  email:             delg4200@mylaurier.ca
-  twitter:			 Giorgio_Delgado
-
-# Custom vars
-version:             2.0.0
-github:
-  username:			 gDelgado14					 
-  repo:              https://github.com/gDelgado14/gDelgado14.github.io
+# Build settings
+markdown: kramdown
