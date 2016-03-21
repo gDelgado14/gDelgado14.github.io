@@ -1,5 +1,6 @@
 _site
-bootstrap-3.3.5-dist
+_drafts
+
 .sass-cache/**
 .DS_Store
 **/.DS_Store
