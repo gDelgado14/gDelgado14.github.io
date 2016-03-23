@@ -7,7 +7,6 @@
 
 # Site settings
 title: Giorgio Delgado
-email: gio@perkur.com
 description: Tech Enthusiast, Continuous Learner, Entrepreneur.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://giorgiodelgado.ca" # the base hostname & protocol for your site

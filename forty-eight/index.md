@@ -8,7 +8,7 @@ From **January 2014 to May 2014** I challenged myself to write every 48 hours ab
 
 Below are the 50 posts that I wrote throughout this great experience.
 
-> Because of the **[way I extracted these posts](http://giorgiodelgado.ca/2015/07/30/soup/)**, their markup (and their corresponding images) is somewhat out of whack. Nonetheless, the content of the posts is still there - and that's what really matters.
+> Because of the **[way I extracted these posts]({% post_url 2015-07-30-soup %})**, their markup (and their corresponding images) is somewhat out of whack. Nonetheless, the content of the posts is still there - and that's what really matters.
 
 
 [Adios!]({% post_url 2014-5-01-Adios! %}) - May 1, 2014
