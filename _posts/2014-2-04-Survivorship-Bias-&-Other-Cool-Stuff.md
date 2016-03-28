@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Survivorship-Bias-&-Other-Cool-Stuff
-tags: posts 
+title: Survivorship Bias and Other Cool Stuff
+tags: posts
 ---
 I got into a discussion with a family member about the usefulness of university and whether it's a worthwhile investment. This family member's argument was that some of the most successful people out there dropped out of university, thus providing this person with what he thought was evidence for disproving a university education's effectiveness. However, one must look beneath the surface and realize two concepts: Survivorship Bias, and the 10,000 hour rule, which, in combination, dispel my family member's hypothesis.
 <p style="text-align: center;"><strong>Survivorship Bias</strong></p>
