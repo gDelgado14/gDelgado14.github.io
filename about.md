@@ -61,7 +61,7 @@ Here are some interesting links I'd like to share:
 
 [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
 
-[On Information Retention](http://www.gwern.net/Spaced%20repetition#fnref3)
+[On Information Retention](http://www.gwern.net/Spaced%20repetition)
 
 [The Whole Earth Catalog](http://www.wholeearth.com/index.php)
 
