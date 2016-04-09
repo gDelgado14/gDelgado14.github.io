@@ -41,6 +41,8 @@ Here are some interesting links I'd like to share:
 
 [Growth Hacking is Dangerous](http://austenallred.com/growth-ha/)
 
+[The Gospel of Relaxation](http://www.uky.edu/~eushe2/Pajares/jgospel.html)
+
 [Iterating Grace](https://fusiondotnet.files.wordpress.com/2015/06/iterating-grace_digitized_small.pdf)
 
 [The Catastrophe of Success](http://genius.com/Tennessee-williams-the-catastrophe-of-success-annotated)
