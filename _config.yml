@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://giorgiodelgado.ca" # the base hostname & protocol for your site
 twitter_username: Giorgio_Delgado
 github_username:  gDelgado14
-pages: [about, forty-eight]
+pages: [about, forty-eight, n36]
 
 # Build settings
 markdown: kramdown
