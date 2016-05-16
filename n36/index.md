@@ -6,7 +6,7 @@ add-to-header: false
 
 I'm fortunate to be part of the [Next 36](https://www.thenext36org.ca/thenext36/program-info) 2016 cohort and would like to document my experience throughout this program.
 
-I will be posting weekly recaps of each week discussing what I learned.
+I will be posting weekly recaps discussing what I learned.
 
 ### About N36
 
@@ -28,7 +28,11 @@ Throughout the entire program there are opportunities to raise up to $50,000 bas
 
 I got accepted into the Next 36 program in December 2015 and was immediately tasked with deciding what company I would pitch to the Next 36.
 
-At the time, I was working on a Peer-to-Peer bicycle renting network that connected bicycle owners with people looking for short, medium, and long-term bike rentals. The obvious answer was to continue working on this business ([Here's](https://flickering-fire-3149.firebaseapp.com/) what the landing page used to look like).
+At the time, I was working on a Peer-to-Peer bicycle renting network that connected bicycle owners with people looking for short, medium, and long-term bike rentals. The obvious answer was to continue working on this business .
+
+![BykMe Landing Page](/downloads/BykMeLanding.png)
+
+> This is what the BykMe landing page looked like. You can view the whole web page [here](https://flickering-fire-3149.firebaseapp.com/).
 
 Shortly thereafter I realized things were [not going to work out]({% post_url 2016-04-24-bye-bykme %}) for BykMe so I made the decision to start looking for other opportunities and partnered up with two friends of mine that I knew were well suited for the intensity of startups. From January until March we worked on a tool for creative agencies (Marketers, Advertisers, Designers) to manage their communications (click [here](https://drive.google.com/file/d/0B6_A8be9iqvHSTgtMmhWNWZ4TDA/view?pref=2&pli=1) for our slide deck).
 
@@ -83,9 +87,9 @@ This diagram is a hypothetical depiction of Americans' capacity to tolerate risk
 
 If you were to take two identical people (identical in every respect: Education; income; family; opportunities for growth; etc.), but one was American and one was Canadian, the American would be more likely than the Canadian to start a company.
 
-Now, I'm not here to say whether this is factually true or not - that's besides the point. But it is a rather intriguing proposition. And perhaps this is the reason that most massively influential companies come out of the United States and not Canada. And if that's the case, why not try and do something about it but taking on bigger risks?
+Now, I'm not here to say whether this is factually true or not - that's besides the point. But it is a rather intriguing proposition. And perhaps this is the reason that most massively influential companies come out of the United States and not Canada. And if that's the case, why not try and do something about it by taking on bigger risks?
 
-Why not let the imagination run wild with the impact any one Canadian can have, not just on the country, but on the world in general. Why settle to be second?
+The world is our Oyster, Canada. 
 
 ---
 
