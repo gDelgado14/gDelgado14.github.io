@@ -18,7 +18,6 @@ Phase 2 brings all Next 36ers to Toronto from May until August for an intensive 
 
 Throughout the entire program there are opportunities to raise up to $50,000 based on progress, traction, and other metrics.
 
-
 ---
 
 > begin first blog post below:
@@ -59,13 +58,19 @@ Prof. Agrawal discussed the usefulness in viewing entrepreneurship from the lens
 
 Basically, Increasing Marginal Returns means that every additional unit of your product is more valuable than the previous unit.
 
-Consider the value of social networks. If none of your friends are using a social network, then what use is it to you. Conversely, if all your friends are on a social network (i.e. most recently Snapchat), then you'll feel a bit of [FOMO](https://www.google.ca/search?q=fomo&oq=fomo&aqs=chrome..69i57j69i60l4j69i59.479j0j1&sourceid=chrome&ie=UTF-8) if you're not on it as well.
-
-In other words, social networks have, well, network effects.
-
 Contrast this to farming. For each additional unit of corn, there is less and less land to produce the corn. Not to mention that sustained demand will reduce the quality of the soil, thereby reducing the quality of the corn.
 
 In essence, almost all technology businesses (especially software - AI is a prime candidate) demonstrate Increasing Marginal Returns.
+
+Consider the value of social networks. If none of your friends are using a social network, then what use is it to you. Conversely, if all your friends are on a social network (i.e. most recently Snapchat), then you'll feel a bit of [FOMO](https://www.google.ca/search?q=fomo&oq=fomo&aqs=chrome..69i57j69i60l4j69i59.479j0j1&sourceid=chrome&ie=UTF-8) if you're not on it as well.
+
+In other words, social networks have, well, network effects. This brings up an interesting point - businesses that utilize network effects tend to consume entire markets.
+
+The most obvious example is Facebook. They have no competitors because their user base reached a certain level in the early years of the company to make the value of their network exponentially better on each additional user.
+
+This also explains why Facebook paid so much to acquire Instagram. The story goes that the social network giant noticed that the most used feature on Facebook was sharing photos. As such, Instagram was doing a hell of a lot better job than they were at satisfying their users' demands.
+
+If Instagram would have continued as a startup, they may have entrenched themselves as the go-to social network, eventually making Facebook obsolete. From Facebook's perspective, there is no price to high to prevent extinction.
 
 For a much better explanation, see [this](https://hbr.org/1996/07/increasing-returns-and-the-new-world-of-business) HBR article discussing the new economics of the modern world.
 
@@ -89,7 +94,7 @@ If you were to take two identical people (identical in every respect: Education;
 
 Now, I'm not here to say whether this is factually true or not - that's besides the point. But it is a rather intriguing proposition. And perhaps this is the reason that most massively influential companies come out of the United States and not Canada. And if that's the case, why not try and do something about it by taking on bigger risks?
 
-The world is our Oyster, Canada. 
+Obviously there are other variables at play such as bigger financial penalties for bankruptcy in Canada vs U.S. and . Regardless, the world is our Oyster, Canada.
 
 ---
 
