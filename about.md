@@ -37,19 +37,21 @@ Here are some interesting links I'd like to share:
 
 [Reconsider](https://signalvnoise.com/posts/3972-reconsider)
 
-[The Genius Within](https://alumni.stanford.edu/get/page/magazine/article/?article_id=32124 )
-
-[Growth Hacking is Dangerous](http://austenallred.com/growth-ha/)
+[The Genius Within](https://alumni.stanford.edu/get/page/magazine/article/?article_id=32124)
 
 [The Gospel of Relaxation](http://www.uky.edu/~eushe2/Pajares/jgospel.html)
 
-[Iterating Grace](https://fusiondotnet.files.wordpress.com/2015/06/iterating-grace_digitized_small.pdf)
+[Mother Earth Mother Board](http://www.wired.com/1996/12/ffglass/)
+
+[Growth Hacking is Dangerous](http://austenallred.com/growth-ha/)
 
 [The Catastrophe of Success](http://genius.com/Tennessee-williams-the-catastrophe-of-success-annotated)
 
+[LSD: My Life-Saving Drug](http://www.gq.com/story/lsd-life-saving-drug)
+
 [The Most Valuable Asset](http://www.nytimes.com/2015/12/15/your-money/your-most-valuable-asset-is-yourself.html?_r=1)
 
-[LSD: My Life-Saving Drug](http://www.gq.com/story/lsd-life-saving-drug)
+[Iterating Grace](https://fusiondotnet.files.wordpress.com/2015/06/iterating-grace_digitized_small.pdf)
 
 [This Is Water](http://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html)
 
