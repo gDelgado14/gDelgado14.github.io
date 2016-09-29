@@ -84,7 +84,7 @@ The class began with an introduction and history of the N36 program, and its [hi
 
 Which brings me to the following image:
 
-<img src="/downloads/risk.jpg" alt="sponsors" class="portrait-img">
+<img src="/downloads/risk.jpg" alt="canada and us risk profiles" class="portrait-img">
 
 > Re-rendering of Next 36 diagram.
 

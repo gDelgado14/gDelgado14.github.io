@@ -49,6 +49,8 @@ Here are some interesting links I'd like to share:
 
 [LSD: My Life-Saving Drug](http://www.gq.com/story/lsd-life-saving-drug)
 
+[How Do People Get New Ideas?](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
+
 [The Most Valuable Asset](http://www.nytimes.com/2015/12/15/your-money/your-most-valuable-asset-is-yourself.html?_r=1)
 
 [Iterating Grace](https://fusiondotnet.files.wordpress.com/2015/06/iterating-grace_digitized_small.pdf)
