@@ -3,6 +3,187 @@ layout: page
 title: Expectations
 add-to-header: false
 ---
+![hi](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+
+# Oh... Hello there, Aliya
+
+<br />
+...
+<br />
+...
+<br />
+...
+<br />
+...
+<br />
+
+### I wasn't expecting you
+
+![](http://i.imgur.com/67EzSu9.gif)
+
+<br />
+...
+<br />
+...
+<br />
+...
+<br />
+...
+<br />
+
+# How's nandria? 
+
+
+...
+
+
+# I mean Vancouver
+
+![wat mountain](https://i.chzbgr.com/full/6941468928/hA3F1D2DB/)
+
+<br />
+...
+<br />
+...
+<br />
+...
+<br />
+
+# Must be nice being back at home and all...
+
+What with the bears and the honey and the nice air and the mooses and totempoles ... cool stuff.
+
+
+
+<br />
+...
+<br />
+...
+<br />
+
+
+# To be honest 
+
+
+I kinda miss BC ... 
+
+![](https://i.imgflip.com/5vegf.jpg?a409728)
+
+Who am I kidding ... I really miss BC. 
+
+<br />
+...
+<br />
+...
+<br />
+
+![](https://milk.imgix.net/2015/04/3763-tylerthecreatorcrying.gif?fit=scale&fm=gif&h=275&ixlib=php-1.1.0&q=95&w=490&wpsize=article-aside&s=c846464a37c7a3c49ee7072ae7bf4900)
+
+
+<br />
+...
+<br />
+...
+<br />
+
+And our hangouts .... They were fun. 
+
+![](https://media.giphy.com/media/3oEjHUgs5VOcuqW2sw/giphy.gif)
+
+### Like slumber party kinda fun 
+
+> scientifically known to be the most fun
+
+
+
+<br />
+...
+<br />
+...
+<br />
+
+
+
+But anyways .... 
+
+
+<br />
+...
+<br />
+...
+<br />
+
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+
+
+
+<br />
+...
+<br />
+...
+<br />
+<br />
+...
+<br />
+...
+<br />
+
+### I was bored today and put in some more work on this blog post. 
+
+![](http://i.imgur.com/aTMLvyA.jpg) 
+
+
+
+<br />
+<br />
+...
+<br />
+...
+<br />
+
+### And thought maybe u could give me some more input
+
+![](http://i.imgur.com/YJFxuRD.gif)
+
+<br />
+<br />
+...
+<br />
+...
+<br />
+
+# Have a good day :)
+
+![](https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif)
+
+
+<br />
+<br />
+...
+<br />
+...
+<br />
+
+
+Bonus 
+
+
+<br />
+<br />
+...
+<br />
+...
+<br />
+
+### Here's a pokemon
+
+![](http://data.whicdn.com/images/90351615/large.gif)
+
+
+
+### OK ONTO THE ACTUAL BLOG POST !!!! 
+
+
 
 Razor Suleman, the newly-appointed CEO of the Next 36 program (recently rebranded as Next Canada) spoke to my cohort about his experiences as the founder of [Achievers](http://www.achievers.com/). His company began in Canada and eventually moved to California. The difference in ambition between his Canadian and American employees was noticeable. When Razor asked his Canadian workforce if Achievers could become a $1 Billion dollar company, his employees were noticeably skeptic of ever achieving such a valuation, and suggested Razor reassess his company's goals. When Achievers' American counterparts were asked the very same question, they responded with, "only $1 Billion"?
 
