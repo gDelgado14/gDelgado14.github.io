@@ -79,3 +79,6 @@ http://www.huffingtonpost.ca/2014/05/25/canada-us-jobless-claims_n_5381631.html
 
 https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_Canada
 
+https://www.wolframalpha.com/input/?i=canada+unemployment+rate
+
+https://www.wolframalpha.com/input/?i=usa+unemployment+rate
