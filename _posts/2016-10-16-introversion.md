@@ -42,7 +42,7 @@ The combination of journaling and learning about psychology has proven to be an 
 
 #### Mental Catharsis
 
-Both blogging and journaling as really good cathartic devices. I have a well-meaning minion in my head (let's call him 'banana') that sometimes grabs hold of his megaphone and just doesn't shut up. Banana's stream of [sometimes] amazing deliberations is probably infinite. And it seems like the only way to shut him up is to write down some of his ideas. 
+Both blogging and journaling serve as really good cathartic devices. I have a well-meaning minion in my head (let's call him 'banana') that sometimes grabs hold of his megaphone and just doesn't shut up. Banana's stream of [sometimes] amazing deliberations is probably infinite. And it seems like the only way to shut him up is to write down some of his ideas. 
 
 ![banana back at it again](http://www.adweek.com/prnewser/wp-content/uploads/sites/8/2016/04/roll-call-minion-megaphone.jpg)
 
