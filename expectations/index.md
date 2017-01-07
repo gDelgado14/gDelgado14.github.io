@@ -54,6 +54,15 @@ Much has been said about the future of Canadian prosperity. I for one hope the L
 
 > If you want to learn more about the Next 36 and who is associated with it and why it was founded, click [here](https://www.nextcanada.com/about).
 
+## A turning point is nigh
+
+For over 10 years, Canadian government was ruled by conservative policies, which in turn permeated our already-conservative culture. 
+
+But times are changing and Canada is positioned to become the Global leader in innovation. (talk about Next Canada, Perimiter Institute, Vannevar Bush's letter - "Science, the endless frontier" and how being a scientific leader lends itself to a strong national defense and economy). U.S.'s platforms, either for the Democrats or Republicans are not inherently weak, but the leaders put in charge of upholding such platforms are evidently not suitable to execute. 
+
+Clinton is akin to Stephen Harper, who will try to enact conservative policies that will help stall American's impact on global economic output.
+
+Donald Trump's views are right in that the US is no longer the great economic leader it once was. But the guy is a baffoon, so he wouldn't be the effective leader to brign the nation back to its glory days. Compounding with the fact that we now have a Liberal Prime Minister who is an advocate for innovation, we are poised to make our mark. But this is not without its people willing to take risks and ceize the opportunity that we have.  
 
 --- 
 
