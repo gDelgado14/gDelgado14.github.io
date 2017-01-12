@@ -4,7 +4,7 @@ title: Values & Goals
 tags: [entrepreneurship, technology, psychology, habits]
 ---
 
-As mentioned in my [last post](/2017-01-07-review.md), I'd like to outline a rough overview of my values and goals for this year. 
+As mentioned in my [last post](/2017/01/07/review.html), I'd like to outline a rough overview of my values and goals for this year. 
 
 ## Values for 2017
 
