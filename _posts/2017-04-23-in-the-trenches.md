@@ -4,8 +4,6 @@ title: In The Trenches
 tags: [entrepreneurship]
 ---
 
-# In The Trenches
-
 Despite my best intentions, it has been hard to publish a blog post once a week. I could put in a weak effort (get it?) and publish something of little substance simply to fill my quota. But I rather not do that.
 
 Today's post is about my experience as a startup founder and early-employee.
