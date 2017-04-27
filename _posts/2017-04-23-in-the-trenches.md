@@ -56,9 +56,6 @@ I've learned so much since I started in August, both from a software development
 
 Maybe I'm being a little paranoid but I know that [options-based](http://blog.samaltman.com/employee-equity) compensation is laden with caveats that are not communicated to employees.
 
-I dedicate a large amount of time to this business. I'd say just about as much as the founders of the company.
-However, I'm not entirely incentivized to work as hard or as much as the founders, but I sort of have to as the company is under-resourced (as most any start up is).
-
 To be clear; this is not to say I'm unhappy in any way. Nor do I want to come off as greedy, especially in the face of the opportunities that Homigo has provided me. But there is an opportunity cost to doing what I'm doing. I wouldn't be putting in so many hours if I didn't believe in the long-term vision of the company and didn't find the work to be highly engaging.
 
 But I do expect fair compensation and want to express my thoughts regarding this topic especially since so many early employees [have been misled](https://news.ycombinator.com/item?id=2692985) before me.
