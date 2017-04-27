@@ -13,30 +13,7 @@ Today's post is about my experience as a startup founder and early-employee.
 
 There are, however, certain characteristics that define a Startup regardless of its early history and industry. This is a definition, as you'll likely infer, that comes from Silicon Valley culture.
 
-A startup is a company that is trying to develop a **novel** and **repeatable business model** that **scales** well. 
-
-#### 1 - Novel
-A new restaurant is not considered a "startup". There's nothing new or unique about [traditional] restaurants. A startup is trying to go about solving a problem in a unique way. So unique, in fact, that oftentimes new industries get created altogether as a consequence of the startup becoming successful. Bill Gates and Microsoft were the pioneers of the software industry in a time when nobody thought there was money to be made in the code that ran computers.
-
-
-#### 2 - Repeatable
-Paraphrasing [Steve Blank](https://en.wikipedia.org/wiki/Steve_Blank) here, "Startups may get orders that stem from board members’ customer relationships, engineering one-offs, or heroic single-shot efforts by the CEO. These are great, but they aren’t repeatable by a sales organization. Search not for the one-off revenue hits but rather for a pattern that can be replicated by a sales organization selling off a price list or by customers regularly visiting the website."
-
-From [Quora](https://www.quora.com/Whats-a-business-model-that-is-scalable-but-not-repeatable), "'Repeatable' refers to the ability to get recurring revenue or repeat sales from each customer. Apple gets this from repeated iPhone purchases; Amazon from ongoing sales of many products; Facebook from ongoing usage that drives ad revenue."
-
-If you create a product that a user loves but only needs to purchase once, then you might be in trouble. Other than real estate and big ticket items, it's tough to make a successful business around one-time-purchase businesses. This is actually a big reason why [Planned Obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) is important to businesses. 
-
-I also recently learned that online dating businesses face a similar problem. Once you find your soulmate, there's no reason to go back and use the service again. This is why online dating websites game their system to keep you searching for your match for longer.
-
-
-#### 3 - Scalable
-Refers to the ability to serve many customers profitably. If you have a unique and repeatable business model that cannot scale then you just end up with a nice small business - not to say there's anything wrong with that. The problem that may arise from such a company, however, is that its uniqueness might also be its weakness: Other business owners might notice your creative approach to serving customers and replicate your business. Seeing that you don't have much marketshare, your competitors might end up cannabilizing your sales.
-
-Another problem with a non-scalable startup is that its uniqueness might mean that the business has unusually high operational expenses, or Cost of Goods Sold. If you produce something unique, then you might not have the same amount of options for sourcing the materials or tools you need to produce your product / service. 
-
-Thus scaling is important to ensure the livelihood of the business. 
-
-From [Quora](https://www.quora.com/Whats-a-business-model-that-is-scalable-but-not-repeatable), "VCs invest in repeatable, scalable business models because that is the most promising formula for exponential growth." In other words, VCs invest in these sorts of businesses *with the expectation that they'll be scaled out* immensely in order to have a high return on investment.
+A startup is a company that is trying to develop a **novel** and **repeatable business model** that **scales** well. Check out the bottom of this post for more info if you're interested.
 
 Now that we have a clear definition of the term "startup", we can talk about life within one from different points of view.
 
@@ -101,3 +78,31 @@ Homigo has quadrupled in size since January (We've gone from 2 employees to 8!).
 This company has the right ingredients to become enormous. Only time will tell where things go.
 
 Till next time :) 
+
+
+---
+
+## Appendix: Startup Definition
+
+#### 1 - Novel
+A new restaurant is not considered a "startup". There's nothing new or unique about [traditional] restaurants. A startup is trying to go about solving a problem in a unique way. So unique, in fact, that oftentimes new industries get created altogether as a consequence of the startup becoming successful. Bill Gates and Microsoft were the pioneers of the software industry in a time when nobody thought there was money to be made in the code that ran computers.
+
+
+#### 2 - Repeatable
+Paraphrasing [Steve Blank](https://en.wikipedia.org/wiki/Steve_Blank) here, "Startups may get orders that stem from board members’ customer relationships, engineering one-offs, or heroic single-shot efforts by the CEO. These are great, but they aren’t repeatable by a sales organization. Search not for the one-off revenue hits but rather for a pattern that can be replicated by a sales organization selling off a price list or by customers regularly visiting the website."
+
+From [Quora](https://www.quora.com/Whats-a-business-model-that-is-scalable-but-not-repeatable), "'Repeatable' refers to the ability to get recurring revenue or repeat sales from each customer. Apple gets this from repeated iPhone purchases; Amazon from ongoing sales of many products; Facebook from ongoing usage that drives ad revenue."
+
+If you create a product that a user loves but only needs to purchase once, then you might be in trouble. Other than real estate and big ticket items, it's tough to make a successful business around one-time-purchase businesses. This is actually a big reason why [Planned Obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) is important to businesses. 
+
+I also recently learned that online dating businesses face a similar problem. Once you find your soulmate, there's no reason to go back and use the service again. This is why online dating websites game their system to keep you searching for your match for longer.
+
+
+#### 3 - Scalable
+Refers to the ability to serve many customers profitably. If you have a unique and repeatable business model that cannot scale then you just end up with a nice small business - not to say there's anything wrong with that. The problem that may arise from such a company, however, is that its uniqueness might also be its weakness: Other business owners might notice your creative approach to serving customers and replicate your business. Seeing that you don't have much marketshare, your competitors might end up cannabilizing your sales.
+
+Another problem with a non-scalable startup is that its uniqueness might mean that the business has unusually high operational expenses, or Cost of Goods Sold. If you produce something unique, then you might not have the same amount of options for sourcing the materials or tools you need to produce your product / service. 
+
+Thus scaling is important to ensure the livelihood of the business. 
+
+From [Quora](https://www.quora.com/Whats-a-business-model-that-is-scalable-but-not-repeatable), "VCs invest in repeatable, scalable business models because that is the most promising formula for exponential growth." In other words, VCs invest in these sorts of businesses *with the expectation that they'll be scaled out* immensely in order to have a high return on investment.
